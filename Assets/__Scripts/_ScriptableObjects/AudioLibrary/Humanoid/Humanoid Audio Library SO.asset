@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c9e4d66eb7fd6a41bdb367c8babb5f6, type: 3}
+  m_Name: Humanoid Audio Library SO
+  m_EditorClassIdentifier: 
+  normalAttackAudioClips:
+  - {fileID: 8300000, guid: dae9f3d3c3a42413f9f0e4687bbdfc42, type: 3}
+  heavyAttackAudioClips: []
+  stepAudioClips:
+  - {fileID: 8300000, guid: ba16e14e7ef305b459c9e932d31a31fa, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: b1ba006b9769640c39bac4c88e176f09, type: 3}
+  hurtAudioClips:
+  - {fileID: 8300000, guid: c239f3ab8b0a645219252abc75b70d29, type: 3}
